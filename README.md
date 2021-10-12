@@ -1,7 +1,7 @@
 # Emarsys anagram finder CLI application (code chellenge application)
 This is a code challenge from Emarsys team 
 
-##Solution specifications
+## Solution specifications
 1) Solution contains 2 ways of realisation. By default I use faster way that group the incomming array of words. Second way is a straight loop with
 a small modification (I split the array to parts and use a Promise.all to make it more safe and performant)
 2) To configure the application please use file `config.json`. In this file you can change the way (true or false) and the name of file that you want to use
