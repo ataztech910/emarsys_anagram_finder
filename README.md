@@ -1,4 +1,4 @@
-# Emarsys anagram finder CLI application
+# Emarsys anagram finder CLI application (code chellenge application)
 This is a code challenge from Emarsys team 
 
 ##Solution specifications
